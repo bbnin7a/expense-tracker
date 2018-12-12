@@ -16,7 +16,7 @@ exports[`should render ExpenseList with expenses 1`] = `
   <h1>
     Expense List
   </h1>
-  <p>
+  <div>
     <ExpenseListItem
       amount={195}
       createdAt={0}
@@ -41,6 +41,6 @@ exports[`should render ExpenseList with expenses 1`] = `
       key="3"
       note=""
     />
-  </p>
+  </div>
 </div>
 `;
