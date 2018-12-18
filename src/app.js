@@ -12,9 +12,6 @@ import './styles/styles.scss'
 import {firebase} from './firebase/firebase'
 import LoadingPage from './components/LoadingPage'
 
-// test
-// import './playground/promises' 
-
 import { startSetExpenses } from './actions/expenses'
 import { login, logout } from './actions/auth'
 
